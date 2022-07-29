@@ -1,5 +1,5 @@
 # Visit deployed app here
-https://ljsimpkin.github.io/react-gh-pages-boilerplate/index.html
+https://ljsimpkin.github.io/react-gh-pages-boilerplate
 
 # Built with 
 https://github.com/gitname/react-gh-pages
